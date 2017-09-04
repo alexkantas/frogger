@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+canvas{
+    max-width: 100%;
+    margin-top: -2em;
+}
+
+section {
+    width: 65%;
+    margin: 0 auto;
+}
+
+section > *{
+    display: block;
+    margin: 0.3em auto;
+}
+
+button{
+    width: 58px;
+    height: 58px;
+}
+
+#up{
+    margin-bottom: -2em;
+}
+
+#left{
+    margin-right: 3em;
+}
+
+#right{
+    margin-left: 3em;
+}
+
+#down{
+    margin-top: -2em;
+}
